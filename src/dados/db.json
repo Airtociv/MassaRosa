@@ -1,0 +1,48 @@
+{
+    "funcionario": [
+        {
+            "id": "1",
+            "nome":"Confeiteiro",
+            "email":"docemel@sodoce.com.br",
+            "senha":"brigadeiro123"
+        }
+    ],
+
+    "produtos":[
+        {
+            "id":"1",
+            "nome": "Exemplo",
+            "preco": 0.00,
+            "tipo": "",
+            "descricao": "",
+            "imagemUrl": ""
+        }
+    ],
+
+    "categorias":[
+        {
+            "id": "1",
+            "nome": "Bolos"
+        },
+        {
+            "id": "2",
+            "nome": "Tortas"
+        },
+        {
+            "id": "3",
+            "nome": "Bebidas"
+        },
+        {
+            "id": "4",
+            "nome": "Salgados"
+        },
+        {
+            "id": "5",
+            "nome": "Doces"
+        },
+        {
+            "id": "6",
+            "nome": "Saudaveis"
+        }
+    ]
+}
